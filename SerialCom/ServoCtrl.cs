@@ -19,7 +19,6 @@ namespace SerialCom
         public ServoCtrl()
         {
             InitializeComponent();
-            //测试
         }
 
         private void Form1_Load(object sender, EventArgs e)
