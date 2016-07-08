@@ -19,6 +19,7 @@ namespace SerialCom
         public ServoCtrl()
         {
             InitializeComponent();
+            int testGit = -1;  //查看是否能修改文件后提交
         }
 
         private void Form1_Load(object sender, EventArgs e)
